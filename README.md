@@ -1,9 +1,18 @@
 # GwangHoon Moon
 
-> Building practical AI-native tools for real-world work
+> Marketer with 9 years of experience and a vibe coder, running various side projects
 
-I explore the intersection of AI agents and marketing operations, focusing on
-small, useful tools that make complex workflows easier to manage.
+I build small, practical AI-native tools for real marketing and operations work.
+
+## Side projects
+
+| | |
+|---|---|
+| 🎨 [BurnGuard](https://github.com/ashmoonori-afk/BurnGuard) | Open-source Claude Design alternative on your Claude Code / Codex |
+| 🧠 [birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne) | Zero-dependency agent memory, benchmarked |
+| 🔁 [between](https://github.com/ashmoonori-afk/between) | Two AI coding agents that only talk through git diff |
+
+Building in public on X [@eithernothingne](https://x.com/eithernothingne) and Threads [@xomoonoui](https://www.threads.com/@xomoonoui).
 
 ## Interests
 
