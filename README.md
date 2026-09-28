@@ -8,7 +8,7 @@ I build small, practical AI-native tools for real marketing and operations work.
 
 | | |
 |---|---|
-| 🎨 [BurnGuard](https://github.com/ashmoonori-afk/BurnGuard) | Open-source Claude Design alternative on your Claude Code / Codex |
+| 🎨 [BurnGuard](https://github.com/ashmoonori-afk/BurnGuard) | Open-source Claude Design alternative on your subscription |
 | 🧠 [birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne) | Zero-dependency agent memory, benchmarked |
 | 🔁 [between](https://github.com/ashmoonori-afk/between) | Two AI coding agents that only talk through git diff |
 
